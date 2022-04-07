@@ -1,0 +1,120 @@
+.navbar{
+  background: rgba(0,0,0,.1);
+  position: sticky;
+  top: 0;
+  left: 0;
+  right: 0;
+  &__wrapper{
+    padding: 1rem 0;
+    display: flex;
+    justify-content: space-between;
+
+  }
+}
+.films{
+  display: grid;
+  grid-template-columns: repeat(6, 1fr);
+  grid-gap: 2rem;
+  padding: 2rem 0;
+  &__card{
+    border-radius: 14px;
+    overflow: hidden;
+    transition: all .3s;
+    position: relative;
+    &:hover{
+      transform: scale(1.1);
+    }
+  }
+  &__rating{
+    position: absolute;
+    top: 5%;
+    left: 5%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    font-weight: bold;
+    padding: 0 5% ;
+    background: rgba(0,0,0,.7);
+    border-radius: 5px;
+    border: 1px solid white;
+  }
+}
+.film{
+  &__single{
+    height: calc(100vh - 68.5px);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+  }
+  &__content{
+    max-width: 500px;
+    width: 100%;
+    padding: 25px;
+    background: rgba(0, 0, 0, 0.3);
+    border-radius: 10px;
+    border:1px solid #ffffff;
+    backdrop-filter: blur(5px);
+    transform: translateY(-50%);
+    position: absolute;
+    top:50%
+
+  }
+  &__title, &__badge, &__description{
+    color: white;
+  }
+  &__title{
+    font-size: 3rem;
+  }
+  &__badge{
+    display: flex;
+    justify-content: space-around;
+    margin: 1em 0;
+  }
+  &__description{
+    margin-bottom: 2rem;
+  }
+  &__button:not(:last-child){
+    margin-right: 1rem;
+  }
+  &__button svg{
+    margin-right: .5rem;
+  }
+
+}
+.auth{
+  //height: calc(100vh - 10px);
+  &__wrapper{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: calc(100vh - 70px);
+  }
+  &__control{
+    width: 100%;
+  }
+  &__title{
+    text-align: center;
+  }
+  &__text{
+    text-align: center;
+    padding: 2rem;
+  }
+}
+
+//.card{
+//  border-radius: 14px;
+//
+//  overflow: hidden;
+//  transition: all .3s;
+//  &:hover{
+//    transform: scale(1.1);
+//  }
+//}
+.categories{
+  &__list{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+  }
+}

@@ -1,0 +1,562 @@
+[
+{
+  "category": "horror",
+  "title": "Чужой",
+  "year": "1979",
+  "bg_img": "alien_bg.jpg",
+  "description": "Группа космонавтов высаживается на неизвестной планете и знакомится с ксеноморфом. Шедевр Ридли Скотта",
+  "preview_img": "alien.jpg",
+  "trailer_link": "jQ5lPt9edzQ",
+  "rating": "8.1"
+  },
+{
+"category": "horror",
+"title": "28 дней спустя",
+"year": "2002",
+"bg_img": "28_days_bg.jpg",
+"description": "Джим очнулся в пустующем Лондоне, кишащем зомби. Блестящий хоррор Дэнни Бойла о смертельном вирусе",
+"preview_img": "28days.jpg",
+"trailer_link": "FcDhdb6J3rM",
+"rating": "7.5"
+},
+{
+"category": "horror",
+"title": "Новая эра Z",
+"year": "2013",
+"bg_img": "new_z_bg.jpg",
+"description": "Группа выживших и девочка-зомби блуждают по зараженному миру. Апокалиптичная драма от создателя «Шерлока»",
+"preview_img": "new_z.jpg",
+"trailer_link": "t81Pa83z37k",
+"rating": "6.2"
+},
+{
+"category": "horror",
+"title": "Хребет дьявола",
+"year": "2001",
+"bg_img": "devil_bellow_bg.jpg",
+"description": "Попав в приют, Карлос знакомится с призраком. Хоррор, который Гильермо дель Торро считает своим лучшим фильмом",
+"preview_img": "devil_below.jpeg",
+"trailer_link": "o7I7VwWQqM8",
+"rating": "7.2"
+},
+{
+"category": "horror",
+"title": "Ночной дозор",
+"year": "2004",
+"bg_img": "night_bg.jpg",
+"description": "Маги и вампиры в современной Москве. Фильм, доказавший, что российские блокбастеры не уступают голливудским",
+"preview_img": "night.jpeg",
+"trailer_link": "buEOz6DfiUo",
+"rating": "6.1"
+},
+{
+"category": "horror",
+"title": "Константин",
+"year": "2005",
+"bg_img": "constantine_bg.jpg",
+"description": "Охотник на демонов противостоит сверхъестественным силам. Сериальная версия одноименного фильма с Киану Ривзом",
+"preview_img": "constantine.jpg",
+"trailer_link": "1qpxWrXH0A8",
+"rating": "6,9"
+},
+{
+"category": "horror",
+"title": "Оно",
+"year": "2017",
+"bg_img": "it_bg.jpg",
+"description": "Злобный клоун терроризирует подростков. Экранизация романа Стивена Кинга с жутким Биллом Скарсгардом",
+"preview_img": "it.jpeg",
+"trailer_link": "IisU-JHj_fU",
+"rating": "7.3"
+},
+{
+"category": "horror",
+"title": "Зеркала",
+"year": "2008",
+"bg_img": "mirrors_bg.jpg",
+"description": "Спившийся полицейский раскрывает тайну зеркал-убийц. Ужасающий триллер о демонах, таящихся в отражении",
+"preview_img": "mirors.jpg",
+"trailer_link": "LkMV-YTZsb8",
+"rating": "7.1"
+},
+{
+"category": "comedy",
+"title": "Один дома",
+"year": "1990",
+"bg_img": "home_alone_bg.png",
+"description": "Мальчик-озорник задает жару грабителям. Лучшая комедия для создания праздничного настроения у всей семьи",
+"preview_img": "home_alone_pos.jpg",
+"trailer_link": "bBU_64CTNsw",
+"rating": "8.3"
+},
+{
+"category": "comedy",
+"title": "Типа копы",
+"year": "2014",
+"bg_img": "cops_bg.jpg",
+"description": "Два неудачника нарядились на вечеринку полицейскими и влипли в историю. В роли настоящего копа — Энди Гарсиа",
+"preview_img": "cops_pos.jpg",
+"trailer_link": "CEeKwPj176I",
+"rating": "6.6"
+},
+{
+"category": "comedy",
+"title": "Армагеддец",
+"year": "2013",
+"bg_img": "armageddec_bg.jpg",
+"description": "Друзья устраивают алкогольный рейд в захваченном пришельцами городе. Финал пародийной трилогии Эдгара Райта",
+"preview_img": "armageddec_pos.jpg",
+"trailer_link": "NQ1XCjk9hDI",
+"rating": "6.7"
+},
+{
+"category": "comedy",
+"title": "Не грози южному централу",
+"year": "1995",
+"bg_img": "central_bg.jpg",
+"description": "Эш Трей переезжает к отцу, чтобы тот научил его быть мужчиной. Пародия на драмы об афроамериканских гетто",
+"preview_img": "central_pos.jpg",
+"trailer_link": "0IohpEj9VCg",
+"rating": "7.2"
+},
+{
+"category": "comedy",
+"title": "Эйс Вентура",
+"year": "1993",
+"bg_img": "ace_bg.jpg",
+"description": "Оглушительно смешные приключения звериного детектива. В главной роли — Джим Керри",
+"preview_img": "ace_pos.jpeg",
+"trailer_link": "mb6k76m7aro",
+"rating": "7.8"
+},
+{
+"category": "comedy",
+"title": "Большой Лебовски",
+"year": "1998",
+"bg_img": "lebowski_bg.jpg",
+"description": "Тихого пофигиста по ошибке принимают за богача. Криминальная комедия братьев Коэн, которая разошлась на цитаты",
+"preview_img": "lebowski_pos.jpg",
+"trailer_link": "ViHn-LhBwwE",
+"rating": "7.8"
+},
+{
+"category": "comedy",
+"title": "Все или ничего",
+"year": "2005",
+"bg_img": "all_bg.jpg",
+"description": "Футболиста в тюрьме ждет матч между заключенными и надзирателями. Отличный ремейк комедийного хита 1970-х",
+"preview_img": "all_pos.jpg",
+"trailer_link": "kYBWKJgVptk",
+"rating": "7.4"
+},
+{
+"category": "comedy",
+"title": "Няньки",
+"year": "1994",
+"bg_img": "sitters_bg.jpg",
+"description": "Обаятельные амбалы воспитывают избалованных сорванцов. Сразу две пары близнецов в комедии о борьбе добра и зла",
+"preview_img": "sitters_pos.jpg",
+"trailer_link": "uzz3oXQERv4",
+"rating": "7.2"
+},
+{
+"category": "action",
+"title": "Вспомнить все",
+"year": "1990",
+"bg_img": "total_bg.jpg",
+"description": "Даг узнает о своем настоящем прошлом. Колин Фаррелл в ремейке фантастического боевика 1990-х по Филипу Дику",
+"preview_img": "total_pos.jpg",
+"trailer_link": "_nMVrlwWmr0",
+"rating": "7.5"
+},
+{
+"category": "action",
+"title": "Форсаж 9",
+"year": "2021",
+"bg_img": "fast_bg.jpg",
+"description": "Чтобы спасти семью и мир, Доминик противостоит своему брату. Начало последней трилогии драйвовой франшизы",
+"preview_img": "fast_pos.jpg",
+"trailer_link": "XsXUVWy-Ld8",
+"rating": "5.6"
+},
+{
+"category": "action",
+"title": "Дюна",
+"year": "2021",
+"bg_img": "dune_bg.jpg",
+"description": "Атрейдесы прибывают на планету, где им никто не рад. Тимоти Шаламе в фантастическом эпосе Дени Вильнёва",
+"preview_img": "dune_pos.jpg",
+"trailer_link": "DOlTmIhEsg0",
+"rating": "7.7"
+},
+{
+"category": "action",
+"title": "Довод",
+"year": "2020",
+"bg_img": "tenet_bg.jpg",
+"description": "Протагонист пытается обезвредить террориста с помощью уникальной технологии. Блокбастер-пазл Кристофера Нолана",
+"preview_img": "tenet_pos.jpg",
+"trailer_link": "C6dZA-buNCw",
+"rating": "7.5"
+},
+{
+"category": "action",
+"title": "Гнев человеческий",
+"year": "2021",
+"bg_img": "wrath_bg.jpg",
+"description": "Хмурый мужчина прикидывается инкассатором, чтобы выйти на грабителей. Гай Ричи и Джейсон Стэйтем снова вместе",
+"preview_img": "wrath_pos.jpg",
+"trailer_link": "YLw55x-zOSo",
+"rating": "7.6"
+},
+{
+"category": "action",
+"title": "Ларго Винч: Начало",
+"year": "2008",
+"bg_img": "largo_bg.jpg",
+"description": "Усыновленный сирота становится наследником крупного состояния. Французский боевик по популярным комиксам\n\n",
+"preview_img": "largo_pos.jpg",
+"trailer_link": "v4CvWP3O5XY",
+"rating": "7.0"
+},
+{
+"category": "action",
+"title": "Крепкий орешек",
+"year": "1988",
+"bg_img": "die_hard_bg.jpg",
+"description": "Полицейский в одиночку освобождает захваченный террористами небоскреб. Эталонный боевик с Брюсом Уиллисом",
+"preview_img": "die_pos.jpg",
+"trailer_link": "lnsqSqZvZUw",
+"rating": "8.0"
+},
+{
+"category": "action",
+"title": "На грани",
+"year": "2012",
+"bg_img": "man_on_a_ledge.jpg",
+"description": "Он угрожает покончить с собой, чтобы помочь брату провернуть ограбление. Эффектный боевик с Сэмом Уортингтоном\n\n",
+"preview_img": "man_on_a_ledge_pos.jpg",
+"trailer_link": "DybP0Ceq0Ko",
+"rating": "7.1"
+},
+{
+"category": "sci-fi",
+"title": "Звездный путь",
+"year": "2009",
+"bg_img": "star_trek_bg.jpg",
+"description": "Капитан Кирк и ученый Спок объединяются, чтобы спасти галактику. Космический экшен, возродивший культовую сагу",
+"preview_img": "star_trek_pos.jpg",
+"trailer_link": "Jp8gOBemZg4",
+"rating": "7.7"
+},
+{
+"category": "sci-fi",
+"title": "Послезавтра",
+"year": "2004",
+"bg_img": "day_after.jpeg",
+"description": "Из-за таяния ледников на Земле начинается хаос. Грандиозный фильм-катастрофа о глобальном потеплении",
+"preview_img": "day_after_pos.jpg",
+"trailer_link": "8h9Yj-UK3qo",
+"rating": "7.7"
+},
+{
+"category": "sci-fi",
+"title": "Веном 2",
+"year": "2021",
+"bg_img": "venom_2_bg.jpg",
+"description": "Репортер Эдди Брок обретает достойного врага — маньяка с симбиотом внутри. Вуди Харрельсон в роли злодея",
+"preview_img": "venom_2_pos.jpg",
+"trailer_link": "Othd8W8o3t0",
+"rating": "6.1"
+},
+{
+"category": "sci-fi",
+"title": "Доктор Стрэндж",
+"year": "2016",
+"bg_img": "doctor_strange_bg.jpg",
+"description": "После автокатастрофы хирург становится верховным защитником Земли. В роли супергероя — Бенедикт Камбербэтч",
+"preview_img": "doctor_strange_pos.jpg",
+"trailer_link": "GGWR-zX5a6o",
+"rating": "7.5"
+},
+{
+"category": "sci-fi",
+"title": "Стражи галактики",
+"year": "2014",
+"bg_img": "guardian_bg.jpg",
+"description": "Питер Квилл и горстка неземных лузеров спасают артефакт. Крис Пратт в фильме Джеймса Ганна по комиксу Marvel",
+"preview_img": "guardian_pos.jpg",
+"trailer_link": "nlysXqG-gbQ",
+"rating": "7.8"
+},
+{
+"category": "sci-fi",
+"title": "Призрак в доспехах",
+"year": "2017",
+"bg_img": "ghost_in_the_shell_bg.jpg",
+"description": "Киборг-спецназовец ищет суперхакера. Боевик со Скарлетт Йоханссон по манге, которая предвосхитила «Матрицу»",
+"preview_img": "ghost_in_the_shell_pos.jpeg",
+"trailer_link": "15sqcPRjUhU",
+"rating": "6.4"
+},
+{
+"category": "sci-fi",
+"title": "Люди в черном",
+"year": "1997",
+"bg_img": "man_in_black_bg.jpg",
+"description": "Земля кишит пришельцами, за которыми глаз да глаз. Уилл Смит и Томми Ли Джонс в ролях следящих за порядком",
+"preview_img": "man_in_black_pos.jpg",
+"trailer_link": "Sk8VYmIxZGw",
+"rating": "8.0"
+},
+{
+"category": "sci-fi",
+"title": "Марсианин",
+"year": "2015",
+"bg_img": "mars_bg.jpg",
+"description": "Инженер-биолог пытается выжить на Марсе, ожидая помощи с Земли. Научно-фантастический блокбастер Ридли Скотта",
+"preview_img": "mars_pos.jpg",
+"trailer_link": "PnzIxF_Z4oI",
+"rating": "7.7"
+},
+{
+"category": "drama",
+"title": "Лед",
+"year": "2018",
+"bg_img": "ice_bg.png",
+"description": "Фигуристка Надя получает в партнеры хулигана-хоккеиста. Микс спортивной драмы, романтической комедии и мюзикла",
+"preview_img": "ice_pos.jpg",
+"trailer_link": "OXi3ERJig_o",
+"rating": "6.8"
+},
+{
+"category": "drama",
+"title": "Бурлеск",
+"year": "2010",
+"bg_img": "burlesk_bg.jpg",
+"description": "Талантливая сирота мечтает петь в кабаре. Искрящаяся музыкальная мелодрама с Кристиной Агилерой и Шер",
+"preview_img": "burlesk_pos.jpg",
+"trailer_link": "sgOhxneHkiE",
+"rating": "7.5"
+},
+{
+"category": "drama",
+"title": "Бунтарка",
+"year": "2006",
+"bg_img": "stick_it_bg.jpg",
+"description": "Чтобы не сесть в тюрьму, Хейли вынуждена снова заняться спортивной гимнастикой. Драмеди о воспитании духа",
+"preview_img": "stick_it_pos.jpg",
+"trailer_link": "_RPzYmc4WL8",
+"rating": "7.1"
+},
+{
+"category": "drama",
+"title": "Легенда №17",
+"year": "2012",
+"bg_img": "legend_17_bg.jpeg",
+"description": "История жизни хоккеиста Валерия Харламова. Данила Козловский в масштабной драме о легендарном спортсмене",
+"preview_img": "legend_17_pos.jpg",
+"trailer_link": "BRWyTgdWKZY",
+"rating": "8.0"
+},
+{
+"category": "drama",
+"title": "Шоколад",
+"year": "2000",
+"bg_img": "chocolat_bg.png",
+"description": "Виенн переворачивает жизнь маленького города с помощью сладостей. Теплая мелодрама о силе любви с Жюльет Бинош",
+"preview_img": "chocolat_pos.jpg",
+"trailer_link": "n42YX7QZmHU",
+"rating": "7.8"
+},
+{
+"category": "drama",
+"title": "Царство небесное",
+"year": "2005",
+"bg_img": "kingdom_bg.png",
+"description": "Кузнец-бастард с отрядом рыцарей идет в Иерусалим. Драма Ридли Скотта о том, как становились крестоносцами",
+"preview_img": "kingdom_pos.jpg",
+"trailer_link": "W7VJ3SchplY",
+"rating": "7.6"
+},
+{
+"category": "drama",
+"title": "Время",
+"year": "2021",
+"bg_img": "time_bg.jpg",
+"description": "Туристы попадают на пляж, где время течет пугающе быстро. Триллер М. Найта Шьямалана по швейцарскому комиксу",
+"preview_img": "time_pos.jpg",
+"trailer_link": "qtU3TvDyQaE",
+"rating": "6.4"
+},
+{
+"category": "drama",
+"title": "Выживший",
+"year": "2015",
+"bg_img": "reventant_bg.jpg",
+"description": "Хью пытается выбраться из леса и отомстить предателю. Вестерн с поразительным перформансом Леонардо ДиКаприо",
+"preview_img": "revenant_pos.jpg",
+"trailer_link": "Nu_FG63jbJ0",
+"rating": "7.8"
+},
+{
+"category": "romance",
+"title": "Лекарь",
+"year": "2013",
+"bg_img": "doctor_bg.jpeg",
+"description": "Мудрый наставник преподает науку врачевания одаренному сыну плотника. Историческая драма по роману Ноа Гордона",
+"preview_img": "doctor_pos.jpg",
+"trailer_link": "UhPS77Dx4F4",
+"rating": "7.7"
+},
+{
+"category": "romance",
+"title": "Метод Хитча",
+"year": "2005",
+"bg_img": "method_bg.jpeg",
+"description": "Методы пикапера не работают на девушке, в которую он влюблен. Ромком-инструкция с обаятельным Уиллом Смитом",
+"preview_img": "method_pos.jpg",
+"trailer_link": "mPl3f5_90zg",
+"rating": "7.7"
+},
+{
+"category": "romance",
+"title": "Красотка",
+"year": "1990",
+"bg_img": "pretty_woman_bg.jpg",
+"description": "Миллионер снял даму полусвета — и влюбился на всю жизнь. Эталонный ромком с Ричардом Гиром и Джулией Робертс",
+"preview_img": "pretty_woman_pos.jpg",
+"trailer_link": "jO70Gm7Q8MQ",
+"rating": "8.0"
+},
+{
+"category": "romance",
+"title": "Красавчик",
+"year": "2007",
+"bg_img": "pretty_man_bg.jpeg",
+"description": "Развязный журналист вынужден работать в детсаду. Комедия Тиля Швайгера о перевоспитании циника",
+"preview_img": "pretty_man_pos.jpg",
+"trailer_link": "yj1sLmWlQxA",
+"rating": "7.5"
+},
+{
+"category": "romance",
+"title": "Бумажные города",
+"year": "2015",
+"bg_img": "paper_town_bg.jpg",
+"description": "Марго исчезла, но оставила знаки, которые помогут ее найти. Приключенческая мелодрама по роману Джона Грина",
+"preview_img": "paper_town_pos.jpg",
+"trailer_link": "eKjtQBEQeP0",
+"rating": "6.1"
+},
+{
+"category": "romance",
+"title": "Амели",
+"year": "2001",
+"bg_img": "amelie_bg.jpg",
+"description": "Мечтательная чудачка пытается сделать окружающих людей счастливее. Волшебный французский ромком с Одри Тоту",
+"preview_img": "amelie_pos.jpg",
+"trailer_link": "IzmKcURzeNM",
+"rating": "8.0"
+},
+{
+"category": "romance",
+"title": "Параллельные миры",
+"year": "2016",
+"bg_img": "parallel_bg.jpg",
+"description": "Девушка попадает во вселенную вэб-комикса, чтобы спасти его героя. Дорама о любви, не знающей препятствий",
+"preview_img": "parallel_pos.jpg",
+"trailer_link": "3i1lMI5HEsg",
+"rating": "8.1"
+},
+{
+"category": "romance",
+"title": "Предложение",
+"year": "2009",
+"bg_img": "proposal_bg.jpg",
+"description": "Начальница склоняет помощника к фиктивному браку. Самая смешная роль Сандры Буллок, Райан Рейнольдс не отстает",
+"preview_img": "proposal_pos.jpg",
+"trailer_link": "pieNLFOZ3Ek",
+"rating": "7.6"
+},
+{
+"category": "historical",
+"title": "Форест Гамп",
+"year": "1994",
+"bg_img": "forest_gump_bg.jpg",
+"description": "Полувековая история США глазами чудака из Алабамы. Абсолютная классика Роберта Земекиса с Томом Хэнксом",
+"preview_img": "forest_gump_pos.jpg",
+"trailer_link": "x-0bvW-_2YI",
+"rating": "8.9"
+},
+{
+"category": "historical",
+"title": "Гладиатор",
+"year": "2000",
+"bg_img": "gladiator_bg.jpg",
+"description": "Отважный генерал, ставший рабом, мстит империи. Культовая историческая драма Ридли Скотта с пятью «Оскарами»",
+"preview_img": "gladiator_pos.jpeg",
+"trailer_link": "owK1qxDselE",
+"rating": "8.6"
+},
+{
+"category": "historical",
+"title": "Черный ястреб",
+"year": "2001",
+"bg_img": "black_bg.jpg",
+"description": "Спецназ должен захватить мятежного сомалийского главаря. Безжалостная драма Ридли Скотта по реальным событиям",
+"preview_img": "black_pos.jpg",
+"trailer_link": "-9jFTycJOSI",
+"rating": "7.8"
+},
+{
+"category": "historical",
+"title": "Храброе сердце",
+"year": "1995",
+"bg_img": "heart_bg.jpg",
+"description": "История национального героя Шотландии Уильяма Уоллеса. Зрелищный эпос Мэла Гибсона, удостоенный 5 «Оскаров»",
+"preview_img": "heart_pos.jpeg",
+"trailer_link": "277chVHPQSA",
+"rating": "8.3"
+},
+{
+"category": "historical",
+"title": "Человек на луне",
+"year": "2018",
+"bg_img": "moon_bg.jpg",
+"description": "Полет в космос как способ справиться с личной трагедией. Тонкий байопик Дэмьена Шазелла о Ниле Армстронге",
+"preview_img": "moon_pos.jpg",
+"trailer_link": "5KB7Ochl_ws",
+"rating": "7.1"
+},
+{
+"category": "historical",
+"title": "Семь лет в Тибете",
+"year": "1997",
+"bg_img": "tibet_bg.jpg",
+"description": "Попытка покорить Гималаи оборачивается встречей с далай-ламой. Брэд Питт в байопике о духовном перерождении",
+"preview_img": "tibet_pos.jpg",
+"trailer_link": "-O8NjkelPko",
+"rating": "7.8"
+},
+{
+"category": "historical",
+"title": "Т-34",
+"year": "2018",
+"bg_img": "t_34_bg.jpg",
+"description": "Лейтенант готовит побег из концлагеря на танке. Брутальный патриотический блокбастер с Александром Петровым",
+"preview_img": "t_34_pos.jpg",
+"trailer_link": "owurRP3koMw",
+"rating": "6.5"
+},
+{
+"category": "historical",
+"title": "Мастер меча",
+"year": "2020",
+"bg_img": "sword_bg.jpg",
+"description": "Бывший мечник берется за оружие ради спасения дочери. Исторический фильм со зрелищными боевыми сценами",
+"preview_img": "sword_pos.jpg",
+"trailer_link": "xGx6cctM1_U",
+"rating": "7.6"
+}
+]
