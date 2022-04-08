@@ -5,6 +5,7 @@ export default class UserStore {
         this._isAuth = false
         this._user = {}
         this._error=''
+        this._users={}
         makeAutoObservable(this)
 
 
@@ -14,6 +15,9 @@ export default class UserStore {
     }
     setUser(user) {
         this._user = user
+    }
+    setUsers(users){
+        this._users = users
     }
     setError(error){
         this._error= error
@@ -26,5 +30,8 @@ export default class UserStore {
     }
     get error(){
         return this._error
+    }
+    get users() {
+        return this._users
     }
 }

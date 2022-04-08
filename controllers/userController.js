@@ -75,5 +75,17 @@ class UserController {
 
     }
 
+
+    async getUsers(req,res) {
+        try{
+            const users = await User.find()
+
+
+            return res.json(users)
+        }catch (e) {
+            return res.status(500).json({message:'Что то пошло не так'})
+        }
+    }
+
 }
 module.exports = new UserController()

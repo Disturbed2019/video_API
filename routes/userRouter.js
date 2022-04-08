@@ -23,6 +23,8 @@ router.post('/login',
 
 router.get('/auth',userController.check )
 
+router.get('/', userController.getUsers)
+
 
 
 module.exports = router

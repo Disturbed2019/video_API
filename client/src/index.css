@@ -1,9 +1,10 @@
 .navbar {
-  background: rgba(0, 0, 0, 0.1);
+  background: rgba(0, 0, 0, 0.8);
   position: sticky;
   top: 0;
   left: 0;
   right: 0;
+  z-index: 2;
 }
 .navbar__wrapper {
   padding: 1rem 0;
@@ -78,6 +79,21 @@
 }
 .film__button svg {
   margin-right: 0.5rem;
+}
+.film__form {
+  display: flex;
+  flex-direction: column;
+  background: rgba(255, 255, 255, 0.8);
+  padding: 4rem;
+  margin: 2rem 0;
+  border-radius: 2rem;
+}
+.film__form input {
+  margin-top: 2rem;
+}
+
+label {
+  color: white;
 }
 
 .auth__wrapper {

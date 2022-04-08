@@ -1,9 +1,11 @@
 # Video API
  TEST PROJECT
  
+###### server
 - Node.js
 - Express.js
 - MongoDB (local machine)
+###### client
 - React
 - Mobx
     

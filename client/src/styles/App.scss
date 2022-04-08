@@ -1,9 +1,10 @@
 .navbar{
-  background: rgba(0,0,0,.1);
+  background: rgba(0,0,0,.8);
   position: sticky;
   top: 0;
   left: 0;
   right: 0;
+  z-index: 2;
   &__wrapper{
     padding: 1rem 0;
     display: flex;
@@ -80,7 +81,25 @@
   &__button svg{
     margin-right: .5rem;
   }
+  &__form{
+    display: flex;
+    flex-direction: column;
+    //background: rgba(0,0,0,.6);
+    background: rgba(255,255,255,.8);
+    padding: 4rem;
+    margin: 2rem 0;
+    border-radius: 2rem;
+    input{
+      //color: white;
+      margin-top: 2rem;
+    }
+  }
 
+
+
+}
+label{
+  color: white;
 }
 .auth{
   //height: calc(100vh - 10px);
